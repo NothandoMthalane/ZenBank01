@@ -10,7 +10,7 @@ const Container = styled.div`
   justify-content: center;
   font-size: 1rem;
   height: 4rem;
-`;
+`
 
 const Footer = () => {
   return (
