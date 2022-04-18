@@ -20,7 +20,7 @@ export const ContactH1 = styled.h1`
   @media screen and (max-width: 480px){
       font-size: 2rem;
   }
-`;
+`
 
 export const ContactForm = styled.div`
   display: flex;
@@ -86,4 +86,4 @@ transition: all 0.2s ease-in-out;
 &:hover{
    transition: all 0.2s ease-in-out;
 }
-`;
+`
