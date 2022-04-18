@@ -1,5 +1,13 @@
 import React, { useState } from 'react'
-import { ContactForm, ContactH1, Container, InputBox, ContactDetail, ContactInput, BankOptions, Option, Btn } from './ContactElements'
+import { ContactForm, 
+        ContactH1, 
+        Container, 
+        InputBox, 
+        ContactDetail, 
+        ContactInput, 
+        BankOptions, 
+        Option, 
+        Btn } from './ContactElements'
 
 const Contact = () => {
 
