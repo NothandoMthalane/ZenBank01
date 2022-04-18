@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Link as LinkS } from 'react-scroll'; //different page import
+import { Link as LinkS } from 'react-scroll';
 
 export const Button = styled(LinkS)`
   border-radius: 3rem;
@@ -19,4 +19,4 @@ export const Button = styled(LinkS)`
   &:hover{
      transition: all 0.2s ease-in-out;
   }
-`;
+`
